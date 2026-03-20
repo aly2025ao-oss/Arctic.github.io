@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arctic Roblox Developer Portfolio</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #0b0c1a;
+        }
+        .top-bar {
+            background-color: #001f3f;
+            color: #ffffff;
+            padding: 0.5rem 1rem;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+        header {
+            background-color: #001f3f;
+            color: #ffffff;
+            padding: 4rem 1rem 2rem 1rem;
+            text-align: center;
+            position: relative;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 3rem;
+            color: #00aaff;
+        }
+        header p {
+            margin: 0.5rem 0 0;
+            font-size: 1.2rem;
+            color: #cccccc;
+        }
+        section {
+            padding: 3rem 1rem;
+            max-width: 1100px;
+            margin: auto;
+        }
+        h2 {
+            color: #001f3f;
+            border-bottom: 3px solid #00aaff;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+            font-size: 2rem;
+        }
+        p, li {
+            line-height: 1.7;
+            font-size: 1rem;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 2rem;
+        }
+        li {
+            padding: 0.5rem 0;
+        }
+        .info-box {
+            background-color: #e6f2ff;
+            border-left: 5px solid #00aaff;
+            padding: 1rem;
+            margin: 1rem 0;
+            border-radius: 5px;
+        }
+        .section-box {
+            background-color: #001f3f;
+            color: #ffffff;
+            padding: 2rem;
+            border-radius: 10px;
+            margin: 2rem 0;
+        }
+        a {
+            color: #001f3f;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #001f3f;
+            color: #cccccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        Timezone: AST | 2 years Luau scripting | 4 years animating | 7 years modeling
+    </div>
+
+    <header>
+        <h1>Arctic</h1>
+        <p>Professional Roblox Developer, Animator & Modeler</p>
+    </header>
+
+    <section id="intro">
+        <h2>Introduction</h2>
+        <p>Welcome to my professional portfolio! I'm <strong>Arctic</strong>, a dedicated Roblox developer with extensive experience in scripting, animation, and 3D modeling. Over the years, I have honed my skills to create immersive Roblox experiences that are both visually stunning and mechanically robust. My work combines creativity, technical proficiency, and attention to detail to produce projects that stand out.</p>
+        <div class="info-box">
+            <p><strong>Main Focus:</strong> Roblox game development, animation creation, and 3D modeling.</p>
+            <p><strong>Technical Expertise:</strong> Advanced Luau scripting, procedural animation, optimized 3D modeling for Roblox, UI/UX design, and collaborative project development.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills & Expertise</h2>
+        <ul>
+            <li>Luau Scripting – creating interactive game systems, GUIs, and multiplayer experiences.</li>
+            <li>Animation – character and object animation using Moon Animator and Blender.</li>
+            <li>3D Modeling – detailed and optimized Roblox models with Blender.</li>
+            <li>Map Design – creating engaging environments and immersive game worlds.</li>
+            <li>Game Mechanics – advanced gameplay systems including combat, quests, and mini-games.</li>
+            <li>UI/UX Design – creating intuitive interfaces and in-game menus.</li>
+            <li>Project Management – collaborative game development and asset organization.</li>
+            <li>Optimization & Debugging – ensuring smooth performance across all devices.</li>
+        </ul>
+    </section>
+
+    <section id="software">
+        <h2>Software & Tools</h2>
+        <ul>
+            <li><strong>Blender:</strong> Modeling, animation, and texturing.</li>
+            <li><strong>Moon Animator:</strong> Roblox animation creation with precise control.</li>
+            <li><strong>Roblox Studio:</strong> Scripting, game mechanics, and asset integration.</li>
+            <li><strong>Other Tools:</strong> Photoshop, GIMP for textures and UI elements, VS Code for scripting.</li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Projects & Experience</h2>
+        <div class="section-box">
+            <h3>Game Systems</h3>
+            <p>Developed complex game systems including combat mechanics, currency systems, inventory management, and multiplayer networking to provide engaging gameplay experiences.</p>
+        </div>
+        <div class="section-box">
+            <h3>Map Building</h3>
+            <p>Created large-scale, interactive Roblox maps featuring dynamic environments, NPC interactions, and player progression systems optimized for performance.</p>
+        </div>
+        <div class="section-box">
+            <h3>3D Modeling</h3>
+            <p>Designed and modeled characters, vehicles, weapons, and in-game objects with attention to performance, detail, and style consistency.</p>
+        </div>
+        <div class="section-box">
+            <h3>Animation Creation</h3>
+            <p>Produced professional animations including character movements, cutscenes, and object interactions using Moon Animator and Blender.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact & Links</h2>
+        <p>Explore more of my work and projects on my <a href="https://github.com/arctic-roblox" target="_blank">GitHub portfolio</a> or connect with me for collaboration opportunities.</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Arctic | Professional Roblox Developer</p>
+    </footer>
+</body>
+</html>
